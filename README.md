@@ -35,109 +35,35 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The trumpet of vvarre A sermon preached at Paules Crosse the seuenth of Maie 1598. By M. Steph. Goss
+
+1. To the moſt reuerend Father in God, Richard Biſhop of London, my verie good Lord, health and happineſſe heere, and in the world to come.
+
 #####Body#####
+
+1. The Trumpet of VVarre.
 The Text. 2. Chro. 20. verſ. 20▪And when they aroſe early in the morning, they went foorth to the Wi
-    _ 1 The equitie of the action of Warre.
+      * 1 The equitie of the action of Warre.
 
-      * The firſt conſequent [ſafety.]
+      * The cauſe of Warre.
 
-      * The ſeccond Act [Beleeue.]
+      * 3 The perſons concurring to the action of warre.
 
-      * The ſecond conſequent [Proſperity.]
+      * 4. The execution of the action of warre.
 
-    _ The cauſe of Warre.
+    _ The ſeconde parte. The exhortation to the action of warre.
 
-      * The firſt conſequent [ſafety.]
+      * The firſt obiect [God.]
 
-      * The ſeccond Act [Beleeue.]
+The firſt conſequent [ſafety.]
 
-      * The ſecond conſequent [Proſperity.]
+The ſeccond Act [Beleeue.]
 
-    _ 3 The perſons concurring to the action of warre.
+      * The ſecond obiect. [The Prophet.]
 
-      * The firſt conſequent [ſafety.]
-
-      * The ſeccond Act [Beleeue.]
-
-      * The ſecond conſequent [Proſperity.]
-
-    _ 4. The execution of the action of warre.
-
-      * The firſt conſequent [ſafety.]
-
-      * The ſeccond Act [Beleeue.]
-
-      * The ſecond conſequent [Proſperity.]
-
-    _ The firſt obiect [God.]
-
-      * The firſt conſequent [ſafety.]
-
-      * The ſeccond Act [Beleeue.]
-
-      * The ſecond conſequent [Proſperity.]
-
-    _ The ſecond obiect. [The Prophet.]
-
-      * The firſt conſequent [ſafety.]
-
-      * The ſeccond Act [Beleeue.]
-
-      * The ſecond conſequent [Proſperity.]
-
-1. The ſeconde parte. The exhortation to the action of warre.
-
-    _ 1 The equitie of the action of Warre.
-
-      * The firſt conſequent [ſafety.]
-
-      * The ſeccond Act [Beleeue.]
-
-      * The ſecond conſequent [Proſperity.]
-
-    _ The cauſe of Warre.
-
-      * The firſt conſequent [ſafety.]
-
-      * The ſeccond Act [Beleeue.]
-
-      * The ſecond conſequent [Proſperity.]
-
-    _ 3 The perſons concurring to the action of warre.
-
-      * The firſt conſequent [ſafety.]
-
-      * The ſeccond Act [Beleeue.]
-
-      * The ſecond conſequent [Proſperity.]
-
-    _ 4. The execution of the action of warre.
-
-      * The firſt conſequent [ſafety.]
-
-      * The ſeccond Act [Beleeue.]
-
-      * The ſecond conſequent [Proſperity.]
-
-    _ The firſt obiect [God.]
-
-      * The firſt conſequent [ſafety.]
-
-      * The ſeccond Act [Beleeue.]
-
-      * The ſecond conſequent [Proſperity.]
-
-    _ The ſecond obiect. [The Prophet.]
-
-      * The firſt conſequent [ſafety.]
-
-      * The ſeccond Act [Beleeue.]
-
-      * The ſecond conſequent [Proſperity.]
+The ſecond conſequent [Proſperity.]
 
 #####Back#####
-The trumpet of vvarre A sermon preached at Paules Crosse the seuenth of Maie 1598. By M. Steph. Goss
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
